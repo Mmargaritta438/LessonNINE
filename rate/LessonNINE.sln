@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LessonNINE.API", "LessonNINE.API\LessonNINE.API.csproj", "{B4644130-0723-436D-A654-7B102CC4C065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4644130-0723-436D-A654-7B102CC4C065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4644130-0723-436D-A654-7B102CC4C065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4644130-0723-436D-A654-7B102CC4C065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4644130-0723-436D-A654-7B102CC4C065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36A5629-7384-4182-9B20-A8F208A86F0F}
+	EndGlobalSection
+EndGlobal
